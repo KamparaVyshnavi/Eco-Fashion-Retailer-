@@ -1,5 +1,3 @@
-# Eco-Fashion-Retailer-
-
 # Eco-Friendly E-Commerce Platform
 
 A sustainable e-commerce platform that promotes eco-friendly products across various categories including clothing, electronics, food, and beauty products.
@@ -140,8 +138,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Contact
 
 For any queries or support, please contact:
-- Email: [ecofashion@support.us]
-- Website: [Eco-Fashion Retailer]
+- Email: [Your Email]
+- Website: [Your Website]
 
 ## Acknowledgments
 
